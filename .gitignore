@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-_site
-*.un~
-=======
 _site/*
 _theme_packages/*
+
+*.un~
 
 Thumbs.db
 .DS_Store
@@ -12,4 +10,3 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
->>>>>>> 9c0026973bf54324304ed1b917bb227603d87071
